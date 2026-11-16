@@ -38,7 +38,7 @@ Building practical software solutions, improving my software engineering skills,
 🌐 Connect with me
 
 - Website: https://hokage22b.com
-- GitHub: https://github.com/SEU_USUARIO
+- GitHub: https://github.com/isarloiola
 
 ---
 
