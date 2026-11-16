@@ -1,16 +1,45 @@
-## Hi there 👋
+Hi, I'm Isar! 👋
 
-<!--
-**isarloiola/isarloiola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer | Systems & Technology
 
-Here are some ideas to get you started:
+I'm an Analysis and Systems Development student passionate about software engineering, automation, infrastructure, and emerging technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into practical solutions, developing systems, and exploring how technology can solve real-world problems.
+
+🚀 Areas of Interest
+
+- Software Development
+- Systems Architecture
+- Process Automation
+- IT Infrastructure & Networking
+- Artificial Intelligence
+- Blockchain & Decentralized Technologies
+
+🛠️ Technologies
+
+- Languages: Java, Python, JavaScript, TypeScript
+- Backend: Node.js, Express, Flask
+- Frontend: HTML, CSS, React, Next.js
+- Databases: PostgreSQL, MySQL, SQLite
+- Tools: Git, GitHub, IntelliJ IDEA, Linux
+- Other: REST APIs, Docker, Prisma
+
+📌 Projects
+
+- AutoDocs Ultimate – Document automation system.
+- Marcenaria Pro – Management system for woodworking businesses.
+- Genoma 5D – Web application project.
+- Hokage22b – Technology, community and Pi Network ecosystem.
+
+🎯 Current Focus
+
+Building practical software solutions, improving my software engineering skills, and exploring decentralized technologies.
+
+🌐 Connect with me
+
+- Website: https://hokage22b.com
+- GitHub: https://github.com/SEU_USUARIO
+
+---
+
+Always learning. Always building.
